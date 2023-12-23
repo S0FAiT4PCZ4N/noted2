@@ -1,5 +1,5 @@
 # Noted 2.0
-Noted 2.0 is 2nd version of my terminal note taking app written in rust.
+Noted 2.0 is the 2nd version of my terminal note taking app written in rust.
 It has been slightly improved add now features --help.
 
 ## Usage
