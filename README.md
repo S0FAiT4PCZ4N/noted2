@@ -2,7 +2,7 @@
 Noted 2.0 is the 2nd version of my terminal note taking app written in rust.
 It has been slightly improved add now features --help.
 
-# !IMPORTANT
+## !IMPORTANT!
 Currently does not work on Windows and I probably won't fix it
 
 ## Usage
